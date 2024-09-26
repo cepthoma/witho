@@ -7,5 +7,5 @@ function areaQuadrado (lado){
     return lado**2;
 }
 console.log(areaQuadrado(7));
-let areaQuadrado = parseInt(prompt('areaQuadrado'));
+letareaQuadrado = parseInt(prompt('areaQuadrado'));
 document.writeareaQuadrado
