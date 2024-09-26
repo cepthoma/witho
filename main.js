@@ -6,6 +6,6 @@ console.log( soma (1,2));
 function areaQuadrado (lado){
     return lado**2;
 }
-console.log(areaQuadrado(areaQuadrado));
-letareaQuadrado = parseInt(prompt('qual a area do Quadrado'));
+let areaQuadrado = parseInt(prompt('qual a area do Quadrado'));
 document.writeareaQuadrado
+console.log(areaQuadrado(areaQuadrado));
