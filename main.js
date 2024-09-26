@@ -10,5 +10,5 @@ let area =parseInt(prompt('qual a area do Quadrado'));
 document.writeareaQuadrado
 console.log(areaQuadrado(area));
 let media=function(numero1,numero2){
-    return numero1+numero2/numeroN
+    return numero1+numero2/2
 }
