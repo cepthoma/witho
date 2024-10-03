@@ -14,8 +14,8 @@
 // }
 let estados =['AC','RR','AM','RO','PA','AP','MT','TO','MA','GO','DF','MS','PI','BA','MG','SP','PR','SC','RS','RJ','ES','CE','RN','PB','PE','AL','SE']
 let i = 0; 
-
-    {while(i<estados.length)
+while(i<estados.length)
+    {
         console.log(i); 
         // i=i+1;
         console.log(estados[i]);
