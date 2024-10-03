@@ -13,3 +13,8 @@
 //     return numero1+numero2/2
 // }
 let estados =['AC','RR','AM','RO','PA','AP','MT','TO','MA','GO','DF','MS','PI','BA','MG','SP','PR','SC','RS','RJ','ES','CE','RN','PB','PE','AL','SE']
+let i = 0; 
+while(i<10)
+    {
+        console(i); i=i+1;
+    }
