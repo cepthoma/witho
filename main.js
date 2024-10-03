@@ -16,6 +16,6 @@ let estados =['AC','RR','AM','RO','PA','AP','MT','TO','MA','GO','DF','MS','PI','
 let i = 0; 
 while(i<10)
     {
-        console(i); 
+        console.log(i); 
         i=i+1;
     }
