@@ -1,20 +1,25 @@
-criaCatao('Língua Portuguesa',
+criaCatao(
+'Língua Portuguesa',
 'Qual foi o movimento literário que tinha como característica a idealização do amor?',
 'Romantismo')
 
-criaCatao('Química',
+criaCatao(
+'Química',
 'Quais são os fatores que alteram a velocidade de uma reação?',
 'Temperatura, pressão, superfície de contato, concentração e catalisador')
 
-criaCatao('História',
+criaCatao(
+'História',
 'Qual foi a batalha que marcou a primeira derrota da Alemanha na 2WW?',
 'Batalha de Stalingrado')
 
-criaCatao('Geografia',
+criaCatao(
+'Geografia',
 'Qual é o bioma mais ameaçado no Brasil?',
 'Cerrado')
 
-criaCatao('Língua Portuguesa',
+criaCatao(
+'Língua Portuguesa',
 'Qual é a maior característica do Realismo?',
 'Animalização do homem')
 
