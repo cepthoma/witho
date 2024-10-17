@@ -31,7 +31,7 @@
 //  console.log('já pode ser emancipado ')}
 //else{
 //console.log('não pode ser emancipado')
-}
+//}
 function criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementById('container')
     let cartao = document.createElement('article')

@@ -31,7 +31,7 @@ criaCartao(
 criaCartao(
 'História'
 'Quais são as principais contribuições de Getúlio Vargas'
-'Impôs o salário mínimo, carteira de trabalho, CLT e sindicatos’)
+'Impôs o salário mínimo, carteira de trabalho, CLT e sindicatos')
 
 criaCartao(
 'Geografia'
