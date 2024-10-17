@@ -1,27 +1,27 @@
 criaCatao(
-‘Língua Pirtuguesa’
-‘Qual foi o movimento literário que tinha como característica a idealização do amor?’
-‘Romantismo’)
+'Língua Portuguesa',
+'Qual foi o movimento literário que tinha como característica a idealização do amor?'
+'Romantismo'
 
 criaCatao(
-‘Química’
-‘Quais são os fatores que alteram a velocidade de uma reação?’
-‘Temperatura, pressão, superfície de contato, concentração e catalisador’)
+'Química'
+'Quais são os fatores que alteram a velocidade de uma reação?'
+'Temperatura, pressão, superfície de contato, concentração e catalisador')
 
 criaCatao(
-‘História’
-‘Qual foi a batalha que marcou a primeira derrota da Alemanha na 2WW?’
-‘Batalha de Stalingrado’)
+'História'
+'Qual foi a batalha que marcou a primeira derrota da Alemanha na 2WW?'
+'Batalha de Stalingrado')
 
 criaCatao(
-‘Geografia’
-‘Qual é o bioma mais ameaçado no Brasil?’
-‘Cerrado’)
+'Geografia'
+'Qual é o bioma mais ameaçado no Brasil?'
+'Cerrado')
 
 criaCatao(
-‘Língua Portuguesa’
-‘Qual é a maior característica do Realismo?’
-‘Animalização do homem’)
+'Língua Portuguesa'
+'Qual é a maior característica do Realismo?'
+'Animalização do homem')
 
 criaCartao(
 'Química'
@@ -41,17 +41,17 @@ criaCartao(
 criaCartao(
 'Física'
 'Qual é a fórmula para velocidade'
-'V=delta quantidada÷delta tempo’
+'V=delta quantidada÷delta tempo'
 
 criaCartao(
-‘Biologia'
+'Biologia'
 'Qual é a ordem das categorias taxonômicas'
-'Reino,Filo,Classe,Ordem,Família, Gênero, Espécie')
+'Reino,Filo,Classe,Ordem,Família, Gênero, Espécie') 
 
 criaCartao(
 'Química'
 'Quais são as representações dos compostos orgânicos' 
-‘Fórmula estrutural plana, fórmula estrutural condensada, fórmula  estrutural espacial, BOND LINE’)
+'Fórmula estrutural plana, fórmula estrutural condensada, fórmula  estrutural espacial, BOND LINE')
 
 criaCartao(
 'Sociologia'
@@ -64,9 +64,9 @@ criaCartao(
 '1889')
 
 criaCatao(
-‘Matemática’
-‘Como se calcula o IDH(saúde) de uma região?’
-‘(expectativa de vida - expectativa mínima / expectativa máxima - mínima’)
+'Matemática'
+'Como se calcula o IDH(saúde) de uma região?'
+'(expectativa de vida - expectativa mínima / expectativa máxima - mínima')
 
 criaCartao(
 'Matemática'
@@ -74,9 +74,9 @@ criaCartao(
 'P(E)=n(E)÷n(S)')
 
 criaCatao(
-‘Matemática’
-‘Como se calcula o IDH?’
-‘IDH(saúde) - IDH(educação - IDH(renda) / 3’)
+'Matemática'
+'Como se calcula o IDH?'
+'IDH(saúde) - IDH(educação - IDH(renda) / 3')
 
 criaCartao(
 'Matemática'
@@ -84,14 +84,14 @@ criaCartao(
 'sen²+cos²=1')
 
 criaCatao(
-‘Biologia’
-‘Quais espécies são consideradas cobras hoje?’
-‘Naja e Cobra rei’)
+'Biologia'
+'Quais espécies são consideradas cobras hoje?'
+'Naja e Cobra rei')
 
 criaCartao(
 'Matemática'
 'Quais são os quadrantes da tangente'
-‘tg 0⁰ ou 360⁰=0
+'tg 0⁰ ou 360⁰=0
 tg 90⁰ e 270⁰ = não existe
 tg=180⁰=1')
 
